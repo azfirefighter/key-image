@@ -1,6 +1,6 @@
 Key Image
 =========
-A simple NixOS minimal install used for generating Yubikeys and GPG keys
+**A simple NixOS minimal install used for generating Yubikeys and GPG keys**
 
 
 Install
